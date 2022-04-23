@@ -1,0 +1,2 @@
+ABSTRACT
+    Door sensors for automatic lighting control have been developed on a large scale for energy saving and security reasons. Infrared door sensors based on combined electrical and electronic circuit technology are used to develop  automatic lighting switch systems. The automatic lighting switch system brings energy savings and  energy efficiency that everyone can benefit from. In addition, the system is designed with the safety environment in mind when the lights are turned on or off while the room is occupied or unoccupied.
