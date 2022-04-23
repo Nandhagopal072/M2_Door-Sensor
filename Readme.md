@@ -17,9 +17,11 @@
 
 ## Procedure
 
-* when the door is closed the led will not blink.
-* when the door is opened the led starts to blinks.
-* it indicates the door is opened.
+* atmega328 is interfaced with LED and proxymity sensor .
+* the sensor is attached with the door. 
+* when the door is open ,the sensor gives signal to the microcontroller.
+* the microcontroller pass the signal to LED ,the LED starts to blink.
+* when the door is close,then LED stops blinking.
 
 ## For Testing and using code
 
