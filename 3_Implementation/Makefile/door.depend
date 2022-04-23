@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650631617 source:c:\users\nandha gopal\onedrive\documents\projects\door\fuse.c
+	<avr/io.h>
+
+1650631653 source:c:\users\nandha gopal\onedrive\documents\projects\door\main.c
+	<avr/io.h>
+
